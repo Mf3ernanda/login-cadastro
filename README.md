@@ -1,6 +1,6 @@
 # login-cadastro
 
-## ** .Descrição**
+## **.Descrição**
 Este projeto é uma simples página de login desenvolvida utilizando HTML e CSS. O objetivo é fornecer uma interface de usuário básica onde os visitantes podem inserir suas credenciais para acessar um sistema. É ideal para quem está aprendendo a construir formulários e layouts responsivos.
 
 ## **.Tecnologias Utilizadas**

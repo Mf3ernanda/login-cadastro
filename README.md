@@ -16,7 +16,7 @@ Estilos Personalizados: Usando CSS para aplicar estilos modernos e limpos.
 index.html: Arquivo principal contendo a estrutura HTML da página de login.
 styles.css: Arquivo de estilo que define a aparência da página.
 
-##**.Captura de Tela**
+## **.Captura de Tela**
 
 ![Captura de tela 2024-08-29 010409](https://github.com/user-attachments/assets/825b3eb0-7be1-44ec-83fb-c5ebc8173e45)
 
